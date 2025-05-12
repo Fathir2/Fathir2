@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Fathir Sagtiana
 
-I'm a Junior Web Developer
+I'm a Fullstack Developer! 
 
 
 ### GitHub Stats:
