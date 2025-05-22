@@ -1,4 +1,4 @@
-# Hi 👋, I'm Muhammad Fathir Saktiana
+# Hi 👋, I'm Muhammad Fathir Sagtiana
 
 I'm a fullstack developer | tech enthusiast | Problem Solver!
 
