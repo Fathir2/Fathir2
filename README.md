@@ -21,6 +21,9 @@ I'm a fullstack developer | tech enthusiast | Problem Solver!
 * **Node.js** <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
 * **Express** <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
 * **Python** <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+* **Laravel** <img src="https://img.shields.io/badge/-Laravel-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel">
+
+
 
 ### 📈 Github Stats:
 ![Fathir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathir2&show_icons=true&theme=radical)
