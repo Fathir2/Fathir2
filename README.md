@@ -12,8 +12,7 @@
 
 🛠️ Backend:
 
-<p align="left"> <img src="https://img.shields.io/badge/-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" alt="Express"> <img src="https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> </p>
-
+<p align="left"> <img src="https://img.shields.io/badge/-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/-F05340?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"> <img src="https://img.shields.io/badge/-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=express&logoColor=white" alt="Express">
 ### 📈 GitHub Stats:
 
 ![Fathir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathir2&show_icons=true&theme=radical)
